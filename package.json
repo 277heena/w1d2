@@ -1,0 +1,23 @@
+{
+  "name": "w1d2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/277heena/w1d2#readme",
+  "bugs": {
+    "url": "https://github.com/277heena/w1d2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/277heena/w1d2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
